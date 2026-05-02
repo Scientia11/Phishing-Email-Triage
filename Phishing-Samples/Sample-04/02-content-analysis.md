@@ -416,75 +416,17 @@ ZGl2Pgo8L2JvZHk+Cgo8L2h0bWw+Cg==
 ```
 
 ## Content Analysis
-1. Lure: “Airdrop” + Free Tokens
+1. Lure: Crypto phishing often uses airdrops as bait to creates excitement and trigger greed in targeted victims.
 
-“stETH Airdrop is now Live”
+2. Urgency & Authority Framing: “A snapshot has been taken on 21st July 2023…” implying you already qualified, no need to verify eligibility, creating pressure to act quickly.
 
-Crypto phishing often uses airdrops as bait
-Creates excitement + greed trigger
-Targets users familiar with staking platforms like Lido Finance
+2. Generic Messaging: No personalization(No name, No wallet reference). Legit platforms usually address users specifically and provide verifiable details.
 
-👉 SOC Insight:
-Airdrops are a top social engineering vector in Web3 attacks.
+3. Call to Action: “connect wallet and claim your tokens” tries to lure the victim into clicking on a button(link).
 
-1. Urgency & Authority Framing
+5. Brand Impersonation: “©2023 Lido.fi” Attempts legitimacy by referencing Lido Finance, a legitimate crypto platform but the sender domain is inconsistent with that of Lido Finance.
 
-“A snapshot has been taken on 21st July 2023…”
 
-“Snapshot” implies:
-You already qualified
-No need to verify eligibility
-Creates pressure to act quickly
 
-2. Generic Messaging
-
-“All those wallets are eligible…”
-
-No personalization:
-❌ No name
-❌ No wallet reference
-Legit platforms usually:
-Address users specifically
-Provide verifiable details
-
-3. Call to Action: “Connect Wallet”
-
-“connect wallet and claim your tokens”
-
-🚨 This is the most dangerous part
-
-Not just clicking a link—it's asking to:
-Connect crypto wallet (e.g., MetaMask)
-Likely outcomes:
-Wallet drain via malicious smart contract
-Token approval exploit
-Signature-based attack
-
-👉 This is more severe than password phishing
-
-4. Vague “Claim” Button
-
-“Claim”
-
-No visible URL
-No domain shown
-In real emails:
-Links are transparent and verifiable
-
-5. Brand Impersonation
-
-“©2023 Lido.fi”
-
-Attempts legitimacy by referencing:
-Lido Finance
-But:
-No official branding elements
-No verified sender domain
-
-👉 SOC action:
-
-Check sender email domain
-Compare with official domain: lido.fi
-
-6. Attack Type
+## Verdict
 Crypto Wallet Phishing (Web3 Social Engineering)
