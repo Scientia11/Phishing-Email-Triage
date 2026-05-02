@@ -13,6 +13,4 @@ Authentication-Results: spf=pass (sender IP is 23.236.135.70)
 ```
 
 ## Analysis
-1. The 'From' email address "local-part sdv2-noreply" is inconsistent with the display-name Lido DAO provided in the email.
-
-2. The email appears to be coming from Lido Finance but the originating domain is inconsistent with that of Lido Finance.
+1. The email appears to be coming from Lido Finance but the originating domain is inconsistent with that of Lido Finance.
