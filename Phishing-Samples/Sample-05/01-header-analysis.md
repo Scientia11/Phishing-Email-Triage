@@ -8,7 +8,7 @@ Subject: update your KYC on your profile
 Message-Id: <20230816003000.3ce6a04d91e4337e@mail.red-collar.ru>
 Return-Path: bounce+691481.cabe6e-phishing@pot=hotmail.com@mail.red-collar.ru
 Originating IP Address: 143.55.232.4
-DMARC: FAIL
+Authentication-Results: spf=none; dmarc: fail
 ```
 
 ## ANALYSIS
