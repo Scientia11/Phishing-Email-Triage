@@ -15,3 +15,4 @@ Authentication-Results: spf=none; dmarc: fail
 1. The 'Return-Path' domain pot=hotmail.com is inconsistent with the 'From' domain mg.demo-salon.ru.
 2. The DMARC authentication failed, hence the authenticity of the email cannot be relied upon.
 3. The wording of the Subject "update your KYC on your profile" is unusual and somewhat awkward.
+4. The email appears to be coming from masreq.com, a digital bank in the Middle East(United Arab Emirates), but the originating IP is based in the United States.
