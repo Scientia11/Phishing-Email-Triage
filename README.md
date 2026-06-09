@@ -1,16 +1,18 @@
-# SOC Phishing Email Triage
+## Phishing Email Triage Lab
 
-**Junior SOC Analyst Portfolio**  
-Hands-on phishing investigation labs
+## Overview
 
-## About
-I am building real-world SOC skills. This repository documents my phishing email triage work — the exact process used in SOC teams.
+This project demonstrates the process of analyzing and triaging a suspected phishing email to determine its legitimacy, identify indicators of compromise (IOCs), and assess the overall threat level. The investigation follows a structured incident response methodology commonly used by Security Operations Center (SOC) analysts during email security investigations.
 
-Every sample includes:
-- Header analysis (SPF, DKIM, DMARC, Received lines etc)
-- Content analysis (MIME headers, typos, urgency etc)
-- URL/link analysis (redirects, domain squatting etc)
-- Attachment analysis (file type, VirusTotal, sandbox etc)
+## Objective
+
+The primary objective of this lab was to:
+- Analyze a suspicious email in a controlled environment.
+- Identify phishing indicators and social engineering tactics.
+- Investigate embedded URLs, sender information, email content and attachments.
+- Extract and document indicators of compromise (IOCs).
+- Determine the risk posed by the email.
+- Develop practical skills used in SOC email investigations.
 
 ## Skills Demonstrated
 - Email header forensics & authentication checks
@@ -30,24 +32,3 @@ Every sample includes:
 - hybrid-analysis.com
 - Manual raw header inspection
 
-## Phishing Samples Analyzed
-| Sample | Type | Verdict | Link |
-|--------|------|---------|------|
-| Sample-01 | Bank Alert | Malicious (SPF fail + malicious URL) | [View Report](./Phishing-Samples/Sample-01/) |
-| Sample-02 | Invoice Attachment | Suspicious (macro + double extension) | [View Report](./Phishing-Samples/Sample-02/) |
-*(Add more rows as you complete samples)*
-
-## How to View
-1. Browse the `Phishing-Samples` folder
-2. Each sample has screenshots + markdown reports
-3. All analysis done safely in browser tools
-
-## Future Additions
-- SIEM log analysis
-- Full incident response playbooks
-
-
-**Connect with me**  
-Open to junior SOC roles. Feel free to reach out!
-
-Last updated: March 2026
