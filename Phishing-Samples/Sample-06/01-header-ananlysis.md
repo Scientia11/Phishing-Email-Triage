@@ -1,5 +1,5 @@
 ## Extracted Headers
-``txt
+```text
 From: no-reply@access-accsecurity.com
 Subject: Microsoft account unusual signin activity
 To: phishing@pot
@@ -13,7 +13,7 @@ Originating IP: 80.144.44.49
 SPF record: None
 DKIM record: None
 DMARC record: None
-``
+```
 
 ## Analysis
 1. The subject claims to concern a Microsoft account, yet the sender domain is: access-accsecurity.com  is unrelated to Microsoft, indicating brand impersonation.
