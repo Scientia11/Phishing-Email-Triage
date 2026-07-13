@@ -1386,7 +1386,7 @@ d909</style>
    
 2. The opening statement "We detected something unusual about a recent sign-in to the Microsoft account..."  is designed to trigger fear and prompt immediate action without allowing the recipient time to verify the email's legitimacy.
    
-3. Technical details such as IP Address: 103.225.77.255, Platform: Windows 10,Browser: Firefox, etc were included to make the email appear authentic.
+3. Fake technical details such as IP Address: 103.225.77.255, Platform: Windows 10,Browser: Firefox, etc were included to make the email appear authentic.
    
 4. Suspicious Call-to-Action: The email encourages the user to click the "Report The User" button.  Legitimate Microsoft security alerts typically instruct users to review recent activity by signing in through the official Microsoft Account Security portal.
 
