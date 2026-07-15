@@ -28,4 +28,6 @@ This domain belongs to Xserver, a Japanese web hosting provider, and has no know
 
 6. The complete absence of SPF, DKIM, and DMARC is particularly concerning because the email claims to originate from a major financial institution.
 
+7. The originating IP address geolocates to Osaka, Japan. The use of infrastructure located in Japan is unusual for an email claiming to be an official Capital One payment notification.
+
 
