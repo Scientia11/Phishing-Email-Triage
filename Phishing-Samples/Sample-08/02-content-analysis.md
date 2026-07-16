@@ -205,5 +205,3 @@ Although less aggressive than some phishing emails, this creates time pressure b
 7. Poor Grammar: The wording "verify your account ownership is required"  appears awkward and inconsistent with official banking communications.
 
 
-
-The use of an HTML attachment is highly suspicious.
