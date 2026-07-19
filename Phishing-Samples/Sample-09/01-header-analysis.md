@@ -25,7 +25,7 @@ mx.google.com
 ```
 Consistent with Gmail infrastructure but inconsistent with the claimed sender, Norton.
 
-
+4. A reverse DNS indicates that the IP address is associated with Amazon Web Services, not Norton.
 
 
 
