@@ -1,7 +1,26 @@
 
 ## Extracted Content
 ```text
+<SPAN lang=EN>
+<P dir=ltr align=left><FONT size=4 face=System>Dear Member,</FONT></P>
+<P dir=ltr align=left><FONT size=4 face=System>We appreciate you selecting Norton.</FONT></P>
+<P dir=ltr align=left><FONT size=4 face=System>Yesterday was the last day of your subscription. It was renewed in accordance with electronic consent. </FONT></P>
+<P dir=ltr align=left><FONT size=4 face=System>For a two-year subscription, you have been charged $299.95.</FONT></P>
+<P dir=ltr align=left><FONT size=4 face=System>You'll see Norton Life Lock as the name on your statement.</FONT></P>
+<P dir=ltr align=left><FONT size=4 face=System>Your renewal description is&nbsp;here.</FONT></P>
+<P dir=ltr align=left><FONT size=4 face=System>Billing ID: 1820953715</FONT></P>
+<P dir=ltr align=left><FONT size=4 face=System>Date of Renewal: August 4, 2023</FONT></P>
+<P dir=ltr align=left><FONT size=4 face=System>Activation key: K8D3-N5X0-R4V9-L7H2</FONT></P>
+<P dir=ltr align=left><FONT size=4 face=System>Tax: $0.00</FONT></P>
+<P dir=ltr align=left><FONT size=4 face=System>Total amount: $299.95</FONT></P>
+<P dir=ltr align=left><FONT size=4 face=System>Date of the upcoming renewal: August 5, 2025</FONT></P>
+<P dir=ltr align=left><FONT size=4 face=System>We are thrilled to start anew with you and look forward to providing you with our dependable and all-encompassing security solutions.</FONT></P>
+<P dir=ltr align=left><FONT size=4><FONT face=System>If you didn't authorize this transaction or wish to make changes, please call us at +1 (866) 955-9506</FONT></P></FONT>
+<P dir=ltr align=left><FONT size=4 face=System>Best wishes,</FONT></P>
+<P dir=ltr align=left><FONT size=4 face=System>Team Norton</FONT></P>
+<P dir=ltr align=left><FONT size=4 face=System></FONT></P></SPAN>
 
+qÍtßøÑ®ÜõÝÝ¼wW<ßgüé®wWÜãf{½¼ï¶½óÚk;ïµo®º
 ```
 
 
